@@ -1,6 +1,8 @@
 # main text of home
 name: Tarek Mohamed Abdalla
-bio: Android Developer && Tech Geek
+bio: |
+  I'm a simple man, I see &#60;code&#47;&#62; I press like  <br/>
+  Android Developer && Tech Geek
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,7 +14,7 @@ picture: assets/images/tarek_img.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
